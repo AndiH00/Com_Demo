@@ -1,0 +1,4 @@
+tkinter-gui
+tk
+websockets
+numpy
